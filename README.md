@@ -1,5 +1,6 @@
 <h1 align="center">This is Rishikaandh Devadoss</h1>
 <h3 align="center">Aspiring Artificial Intelligence Engineer and Software Developer</h3>
+<img src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/200.webp?cid=ecf05e472wm61yuagj2wk8v9dwq99cxzltbpc41462gqgg29&ep=v1_gifs_search&rid=200.webp&ct=g" alt="coding gif" width="400"></img>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishikaandh&label=Profile%20views&color=0e75b6&style=flat" alt="rishikaandh" /> </p>
 
