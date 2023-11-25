@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rishikaandh" alt="rishikaandh" /></a> </p>
 
-- 🔭 I’m currently working on **Optimizing Stylegan2 to generate images for Data Augmentation.**
+- 🔭 I’m currently working on **increasing skills in machine kearning projects.**
 
 - 🌱 I’m currently learning **PyTorch, TensorFlow, Django-Rest, React.js, and CUDA Computing.**
 
