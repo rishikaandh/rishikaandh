@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **Neural Networks and Generative AI**
 
-- 📫 How to reach me **tejasram03@gmail.com**
+- 📫 How to reach me **drishikaandh2004@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1uL5w_bnSiSE84mIfsV19hpnt7KEKJtkG/view?usp=sharing](https://drive.google.com/file/d/1uL5w_bnSiSE84mIfsV19hpnt7KEKJtkG/view?usp=sharing)
 
