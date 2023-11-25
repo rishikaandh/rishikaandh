@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **drishikaandh2004@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1uL5w_bnSiSE84mIfsV19hpnt7KEKJtkG/view?usp=sharing](https://drive.google.com/file/d/1uL5w_bnSiSE84mIfsV19hpnt7KEKJtkG/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1uL5w_bnSiSE84mIfsV19hpnt7KEKJtkG/view?usp=sharing](https://drive.google.com/drive/u/0/home)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
